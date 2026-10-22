@@ -1,0 +1,502 @@
+[
+  {
+    "file": "patio-front.webp",
+    "source": "pdf-2-1-X17.png",
+    "crop": [
+      160,
+      173,
+      720,
+      667
+    ],
+    "size": [
+      560,
+      494
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-seating-hero.webp",
+    "source": "pdf-2-1-X17.png",
+    "crop": [
+      728,
+      173,
+      1000,
+      416
+    ],
+    "size": [
+      272,
+      243
+    ],
+    "original": false
+  },
+  {
+    "file": "jacuzzi.webp",
+    "source": "pdf-2-1-X17.png",
+    "crop": [
+      1008,
+      173,
+      1280,
+      416
+    ],
+    "size": [
+      272,
+      243
+    ],
+    "original": false
+  },
+  {
+    "file": "bedroom-hero.webp",
+    "source": "pdf-2-1-X17.png",
+    "crop": [
+      728,
+      424,
+      1000,
+      667
+    ],
+    "size": [
+      272,
+      243
+    ],
+    "original": false
+  },
+  {
+    "file": "living-tour.webp",
+    "source": "pdf-2-2-X18.png",
+    "crop": [
+      750,
+      436,
+      1208,
+      742
+    ],
+    "size": [
+      458,
+      306
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-seating.webp",
+    "source": "power-play-patio.png",
+    "crop": [
+      1530,
+      576,
+      2446,
+      1188
+    ],
+    "size": [
+      916,
+      612
+    ],
+    "original": false
+  },
+  {
+    "file": "living-main.webp",
+    "source": "pdf-2-3-X19.png",
+    "crop": [
+      264,
+      88,
+      1176,
+      772
+    ],
+    "size": [
+      912,
+      684
+    ],
+    "original": false
+  },
+  {
+    "file": "living-tv.webp",
+    "source": "power-play-frame-005.png",
+    "crop": [
+      1530,
+      984,
+      1976,
+      1282
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "living-wide.webp",
+    "source": "power-play-frame-005.png",
+    "crop": [
+      2000,
+      984,
+      2446,
+      1282
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-wide.webp",
+    "source": "power-play-frame-006.png",
+    "crop": [
+      1530,
+      418,
+      2446,
+      864
+    ],
+    "size": [
+      916,
+      446
+    ],
+    "original": false
+  },
+  {
+    "file": "kitchen-front.webp",
+    "source": "power-play-frame-006.png",
+    "crop": [
+      1530,
+      904,
+      1976,
+      1202
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "kitchen-dining.webp",
+    "source": "power-play-frame-006.png",
+    "crop": [
+      2000,
+      904,
+      2446,
+      1202
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "bedroom-main.webp",
+    "source": "power-play-frame-006.png",
+    "crop": [
+      1530,
+      1242,
+      2446,
+      1850
+    ],
+    "size": [
+      916,
+      608
+    ],
+    "original": false
+  },
+  {
+    "file": "bathroom.webp",
+    "source": "power-play-detail-05.png",
+    "crop": [
+      1530,
+      418,
+      2446,
+      984
+    ],
+    "size": [
+      916,
+      566
+    ],
+    "original": false
+  },
+  {
+    "file": "gym-main.webp",
+    "source": "power-play-detail-05.png",
+    "crop": [
+      1530,
+      1022,
+      2446,
+      1634
+    ],
+    "size": [
+      916,
+      612
+    ],
+    "original": false
+  },
+  {
+    "file": "gym-equipment.webp",
+    "source": "power-play-frame-007.png",
+    "crop": [
+      1530,
+      466,
+      1976,
+      764
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "gym-window.webp",
+    "source": "power-play-frame-007.png",
+    "crop": [
+      2000,
+      466,
+      2446,
+      764
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "exterior-main.webp",
+    "source": "power-play-frame-007.png",
+    "crop": [
+      1530,
+      806,
+      2446,
+      1416
+    ],
+    "size": [
+      916,
+      610
+    ],
+    "original": false
+  },
+  {
+    "file": "exterior-area.webp",
+    "source": "power-play-frame-007.png",
+    "crop": [
+      1530,
+      1440,
+      1976,
+      1738
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "exterior-side.webp",
+    "source": "power-play-frame-007.png",
+    "crop": [
+      2000,
+      1440,
+      2446,
+      1738
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "exterior-front.webp",
+    "source": "power-play-detail-13.png",
+    "crop": [
+      1530,
+      650,
+      2446,
+      1260
+    ],
+    "size": [
+      916,
+      610
+    ],
+    "original": false
+  },
+  {
+    "file": "pool-main.webp",
+    "source": "power-play-detail-16.png",
+    "crop": [
+      1530,
+      636,
+      2446,
+      1246
+    ],
+    "size": [
+      916,
+      610
+    ],
+    "original": false
+  },
+  {
+    "file": "pool-deck.webp",
+    "source": "power-play-detail-16.png",
+    "crop": [
+      1530,
+      1270,
+      1976,
+      1566
+    ],
+    "size": [
+      446,
+      296
+    ],
+    "original": false
+  },
+  {
+    "file": "pool-courtyard.webp",
+    "source": "power-play-detail-16.png",
+    "crop": [
+      2000,
+      1270,
+      2446,
+      1566
+    ],
+    "size": [
+      446,
+      296
+    ],
+    "original": false
+  },
+  {
+    "file": "jacuzzi-diagonal.webp",
+    "source": "power-play-detail-18.png",
+    "crop": [
+      1530,
+      578,
+      2446,
+      1188
+    ],
+    "size": [
+      916,
+      610
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-overview.webp",
+    "source": "power-play-frame-008.png",
+    "crop": [
+      1530,
+      632,
+      1976,
+      930
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-corner.webp",
+    "source": "power-play-frame-008.png",
+    "crop": [
+      2000,
+      632,
+      2446,
+      930
+    ],
+    "size": [
+      446,
+      298
+    ],
+    "original": false
+  },
+  {
+    "file": "patio-utility.webp",
+    "source": "power-play-frame-008.png",
+    "crop": [
+      1530,
+      954,
+      2446,
+      1564
+    ],
+    "size": [
+      916,
+      610
+    ],
+    "original": false
+  },
+  {
+    "file": "nearby-1.webp",
+    "source": "recording at 132.5 seconds",
+    "crop": [
+      350,
+      1252,
+      766,
+      1668
+    ],
+    "size": [
+      416,
+      416
+    ],
+    "original": false,
+    "role": "nearby listing thumbnail; excluded from property gallery"
+  },
+  {
+    "file": "nearby-2.webp",
+    "source": "recording at 132.5 seconds",
+    "crop": [
+      806,
+      1252,
+      1222,
+      1668
+    ],
+    "size": [
+      416,
+      416
+    ],
+    "original": false,
+    "role": "nearby listing thumbnail; excluded from property gallery"
+  },
+  {
+    "file": "nearby-3.webp",
+    "source": "recording at 132.5 seconds",
+    "crop": [
+      1262,
+      1252,
+      1678,
+      1668
+    ],
+    "size": [
+      416,
+      416
+    ],
+    "original": false,
+    "role": "nearby listing thumbnail; excluded from property gallery"
+  },
+  {
+    "file": "nearby-4.webp",
+    "source": "recording at 132.5 seconds",
+    "crop": [
+      1718,
+      1252,
+      2134,
+      1668
+    ],
+    "size": [
+      416,
+      416
+    ],
+    "original": false,
+    "role": "nearby listing thumbnail; excluded from property gallery"
+  },
+  {
+    "file": "nearby-5.webp",
+    "source": "recording at 132.5 seconds",
+    "crop": [
+      2174,
+      1252,
+      2590,
+      1668
+    ],
+    "size": [
+      416,
+      416
+    ],
+    "original": false,
+    "role": "nearby listing thumbnail; excluded from property gallery"
+  }
+]
